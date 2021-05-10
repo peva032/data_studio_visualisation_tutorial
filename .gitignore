@@ -4,3 +4,5 @@ node_modules/
 manifest.json
 
 package.json
+
+networkViz/testNetworkData.json
